@@ -9,3 +9,5 @@
 - [Fourier Transform And Frequency Domain](./Fourier%20Transform%20And%20Frequency%20Domain.ipynb)
 
 - [Audio Filtering Basics](./Audio%20Filtering%20Basics.ipynb)
+
+- [Windowing And Framing Basic](./Windowing%20and%20Framing.ipynb)
